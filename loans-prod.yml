@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+loans:
+  message: "Welcome to EazyBank Loans related to PROD APIs"
+  contactDetails:
+    name: "Dan Grayson - Product Owner"
+    email: "dangrayson@gmail.com"
+  onCallSupport:
+    - (888) - 090 - 2298
+    - (888) - 080 - 2666
+
+

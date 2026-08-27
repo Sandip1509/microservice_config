@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+cards:
+  message: "Welcome to EazyBank cards related to Dev APIs"
+  contactDetails:
+    name: "Arun Sudhamurthy - Developer"
+    email: "aruns@gmail.com"
+  onCallSupport:
+    - (123) 456 7890
+    - (123) 456 7777

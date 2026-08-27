@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related to Prod APIs"
+  contactDetails:
+    name: "Sumit Patel - Product Owner"
+    email: "sumit.patel@gmail.com"
+  onCallSupport:
+    - (777) 755-1234
+    - (777) 723-1345
