@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+cards:
+  message: "Welcome to EazyBank cards related to Prod APIs"
+  contactDetails:
+    name: "Akhil Unni- Product Owner"
+    email: "akhilu@gmail.com"
+  onCallSupport:
+    - (123) 456 7891
+    - (123) 456 8888

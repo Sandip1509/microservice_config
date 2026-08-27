@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+cards:
+  message: "Welcome to EazyBank cards related to QA APIs"
+  contactDetails:
+    name: "Prabhat Jena- QA Lead"
+    email: "prabhatj@gmail.com"
+  onCallSupport:
+    - (123) 456 7891
+    - (123) 456 8888

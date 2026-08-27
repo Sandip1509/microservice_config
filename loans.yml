@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+loans:
+  message: "Welcome to EazyBank Loans related to Dev APIs"
+  contactDetails:
+    name: "Sachin Joshi - QA Lead"
+    email: "sachinjoshi@gmail.com"
+  onCallSupport:
+    - (777) - 090 - 5555
+    - (777) - 080 - 4444
