@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related to Prod APIs"
+  message: "Welcome to EazyBank accounts related to Production APIs"
   contactDetails:
     name: "Sumit Patel - Product Owner"
     email: "{cipher}53a1ded27beb353679980848c2e7e202b2b70cac6966d20b63c936b58626011c0cd1d34d80bb7ef8babbab8811d6743f"
